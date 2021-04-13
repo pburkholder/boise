@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/18F/guides-style.git
+  remote: https://github.com/18F/guides-style.git
   revision: 45a6ff8a5d942e4dcf39de033cad91604c8127b8
   branch: v1.0.5
   specs:
